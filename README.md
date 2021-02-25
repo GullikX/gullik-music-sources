@@ -16,3 +16,8 @@ https://gullik.bandcamp.com
 * Repo mirrors:
     * https://bitbucket.org/Gullik/gullik-music-sources
     * https://github.com/GullikX/gullik-music-sources
+
+
+## License
+
+This work is licensed under CC BY-SA 4.0. To view a copy of this license, check LICENSE.md or visit https://creativecommons.org/licenses/by-sa/4.0
