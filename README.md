@@ -10,6 +10,11 @@ https://gullik.bandcamp.com
 * Sea and Sky (2021): Chill track for seaside adventures.
 
 
+## Filetype guide
+
+* `*.mmp`: LMMS project file
+
+
 ## Links
 
 * Main repo: https://git.sr.ht/~gullik/gullik-music-sources
