@@ -1,5 +1,7 @@
 # gullik-music-sources - source files for my music
 
+I write video game-esque instrumental music.
+
 https://gullik.bandcamp.com
 
 
