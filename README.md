@@ -19,10 +19,10 @@ https://gullik.bandcamp.com
 
 ## Links
 
-* Main repo: https://git.sr.ht/~gullik/gullik-music-sources
+* Main repo: https://github.com/GullikX/gullik-music-sources
 * Repo mirrors:
     * https://bitbucket.org/Gullik/gullik-music-sources
-    * https://github.com/GullikX/gullik-music-sources
+    * https://git.sr.ht/~gullik/gullik-music-sources
 
 
 ## License
