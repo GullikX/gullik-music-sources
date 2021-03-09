@@ -27,4 +27,4 @@ https://gullik.bandcamp.com
 
 ## License
 
-This work is licensed under CC BY-SA 4.0. To view a copy of this license, check LICENSE.md or visit https://creativecommons.org/licenses/by-sa/4.0
+All content in this git repository is licensed under CC BY-SA 4.0. To view a copy of this license, check LICENSE.md or visit https://creativecommons.org/licenses/by-sa/4.0
