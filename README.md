@@ -9,7 +9,8 @@ https://gullik.bandcamp.com
 
 ### 2021
 
-* Sea and Sky (2021): Chill track for seaside adventures.
+* Bust a Move: Something inspired by Crypt of the NecroDancer.
+* Sea and Sky: Chill track for seaside adventures.
 
 
 ## Filetype guide
