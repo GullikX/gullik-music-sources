@@ -7,7 +7,7 @@ https://gullik.bandcamp.com/track/sea-and-sky
 
 ## VST plugin list
 
-* Addictive Keys
+* Addictive Keys (demo version)
     * XLN Audio
     * https://www.xlnaudio.com/products/addictive_keys
 
