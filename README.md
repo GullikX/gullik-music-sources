@@ -16,6 +16,7 @@ https://gullik.bandcamp.com
 ## Filetype guide
 
 * `*.mmp`: LMMS project file
+* `*.svg`: Inkscape vector graphics file
 
 
 ## Links
